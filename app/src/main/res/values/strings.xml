@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IAIS2</string>
+    <string name="desc">Imagen de portada</string>
+    <string name="title_activity_eleccion_cais">Elige un CAIS</string>
+    <string name="codigo_paciente">Código paciente</string>
+    <string name="item_1">Cerrar sesión usuario</string>
+    <string name="item_2">Cerrar sesión CAIS</string>
+    <string name="peso">60kg</string>
+    <string name="talla">36cm</string>
+    <string name="estatura">1.56cm</string>
+    <string name="nombre">Guadalupe Maquivar</string>
+    <string name="edad">Edad: 41</string>
+    <string name="sexo">Sexo: F</string>
+    <string name="edificio">Edificio: Azul</string>
+    <string name="scan_bar_code">Por favor coloca el codigo qr en el recuadro</string>
+
+</resources>

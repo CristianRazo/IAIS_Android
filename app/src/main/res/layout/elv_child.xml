@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:padding="@dimen/padinggeneral"
+    android:weightSum="2">
+
+    <TextView
+        android:id="@+id/primero"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padinggeneral"
+        android:layout_margin="@dimen/padinggeneral"
+        android:gravity="center"
+        android:layout_weight="1"/>
+
+    <EditText
+        android:id="@+id/segundo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/padinggeneral"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:padding="@dimen/padinggeneral"
+        />
+
+
+</LinearLayout>
